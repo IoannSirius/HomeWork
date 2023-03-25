@@ -1,0 +1,6 @@
+a= float(input('0,014'))
+b= float(input('0,84'))
+ev = (a*b)
+evr = (1 / ev)
+evro = round(evr, 2)
+print(evro)
